@@ -1,0 +1,45 @@
+{
+  "name": "dracula.the.perfect.bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "BeastCodZ",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ansi-colors": "^4.1.1",
+    "ascii-table": "0.0.9",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "discord-backup": "^2.1.17",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "gamedig": "^2.0.21",
+    "google": "^2.1.0",
+    "got": "^11.5.1",
+    "log-symbols": "^4.0.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "querystring": "^0.2.0",
+    "random-puppy": "^1.1.0",
+    "samp-query": "^0.1.5",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "util": "^0.12.3",
+    "youtube-search": "^1.1.4",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^4.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "description": ""
+}
